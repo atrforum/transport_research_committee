@@ -33,8 +33,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+    name = "Relevant Work"
+    url = "/relevant_work/"
     weight = 2
 
 [[menu.main]]

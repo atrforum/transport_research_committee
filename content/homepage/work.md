@@ -1,9 +1,8 @@
 ---
-title: 'We Help Business Grow'
+title: 'We do public transport'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+background: 'images/bus_tram.jpg'
+button: 'Relevant work'
 buttonLink: 'work'
 ---
-
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+In the process of furthering public transport research in Australasia, we compile a list of resources related to public transport research and the related industry.

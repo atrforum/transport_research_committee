@@ -35,16 +35,21 @@ theme = "hugo-hero-theme"
 [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Webinars"
+    url = "/webinars/"
     weight = 2
 
 [[menu.main]]
     name = "Relevant Work"
-    url = "/relevant_work/"
+    url = "/works/"
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Members"
+    url = "/members/"
     weight = 4
 
 [permalinks]
